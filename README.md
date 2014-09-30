@@ -42,6 +42,8 @@ For example:
 
     $ test/run-test.rb
 
+（運が良ければきのたんに会えるかも？）
+
 ## Authors
 
 * Masafumi Yokoyama `<myokoym@gmail.com>`
