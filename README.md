@@ -4,7 +4,13 @@
 
 ## Installation
 
-    $ gem install gominohi
+    $ gem install gominohi  # 未リリース
+
+Or
+
+    $ git clone https://github.com/myokoym/gominohi.git
+    $ cd gominohi
+    $ rake install
 
 ## Usage
 
