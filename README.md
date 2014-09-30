@@ -45,7 +45,7 @@ For example:
 
 （運が良ければ[きのたん][]に会えるかも？）
 
-[きのたん](http://test-unit.github.io/ja/#test-unit-notify)
+[きのたん]:http://test-unit.github.io/ja/#test-unit-notify
 
 ## Authors
 
