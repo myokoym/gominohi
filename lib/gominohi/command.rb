@@ -1,6 +1,7 @@
 require "thor"
 require "gominohi/generator"
 require "gominohi/sources"
+require "gominohi/version"
 
 module Gominohi
   class Command < Thor
