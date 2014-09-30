@@ -43,7 +43,9 @@ For example:
     $ bundle install
     $ rake test
 
-（運が良ければきのたんに会えるかも？）
+（運が良ければ[きのたん][]に会えるかも？）
+
+[きのたん](http://test-unit.github.io/ja/#test-unit-notify)
 
 ## Authors
 
