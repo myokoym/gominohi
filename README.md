@@ -40,7 +40,8 @@ For example:
 
 ## Testing
 
-    $ test/run-test.rb
+    $ bundle install
+    $ rake test
 
 （運が良ければきのたんに会えるかも？）
 
