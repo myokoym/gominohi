@@ -10,7 +10,7 @@ module Gominohi
                                          special_order = source[:special_order]|
           days = days(begin_date,
                       end_date,
-                      source[:types],
+                      Marshal.load(Marshal.dump(source[:types])),
                       source[:special_day],
                       special_order)
           source[:areas].collect do |area|
