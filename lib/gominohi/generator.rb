@@ -60,7 +60,8 @@ module Gominohi
       end
 
       def leaf_is_stopped?(date)
-        [12, 1, 2, 3, 4].include?(date.month)
+        (1..4).include?(date.month) or
+          (date.month == 12 and date.day > 10)
       end
     end
   end
