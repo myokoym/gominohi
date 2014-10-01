@@ -49,7 +49,7 @@ module Gominohi
         special_dates.each_slice(special_order.size) do |dates|
           dates.each_with_index do |date, i|
             type = special_order[i]
-            next if type == :leaf and [12, 1, 2, 3, 4].include?(date.month)
+            next if type == :leaf and leaf_is_stopped?(date)
             types[type] << date.strftime("%Y%m%d")
           end
         end
@@ -57,6 +57,10 @@ module Gominohi
         types.values.collect { |group|
           group.join(" ")
         }.join(",")
+      end
+
+      def leaf_is_stopped?(date)
+        [12, 1, 2, 3, 4].include?(date.month)
       end
     end
   end
