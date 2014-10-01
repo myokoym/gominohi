@@ -1,5 +1,3 @@
+require "gominohi/generator"
+require "gominohi/sources"
 require "gominohi/version"
-
-module Gominohi
-  # Your code goes here...
-end
