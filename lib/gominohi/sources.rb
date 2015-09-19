@@ -21,7 +21,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "chuo_2",
@@ -42,7 +41,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "tuesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "chuo_3",
@@ -66,7 +64,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "friday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "chuo_4",
@@ -87,7 +84,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "monday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "chuo_5",
@@ -110,7 +106,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "thursday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "chuo_6",
@@ -143,7 +138,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "wednesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "atsubetsu_1",
@@ -162,7 +156,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "friday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "atsubetsu_2",
@@ -180,7 +173,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "atsubetsu_3",
@@ -201,7 +193,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "atsubetsu_4",
@@ -221,7 +212,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "tuesday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "shiroishi_1",
@@ -242,7 +232,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "shiroishi_2",
@@ -263,7 +252,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "monday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "shiroishi_3",
@@ -281,7 +269,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "thursday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "shiroishi_4",
@@ -301,7 +288,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "teine_1",
@@ -320,7 +306,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "thursday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "teine_2",
@@ -339,7 +324,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "monday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "teine_3",
@@ -362,7 +346,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "kiyota_1",
@@ -383,7 +366,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "wednesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "kiyota_2",
@@ -404,7 +386,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "friday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "nishi_1",
@@ -422,7 +403,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "friday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "nishi_2",
@@ -443,7 +423,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "tuesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "nishi_3",
@@ -461,7 +440,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "nishi_4",
@@ -478,7 +456,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "higashi_1",
@@ -494,7 +471,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "tuesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "higashi_2",
@@ -515,7 +491,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "higashi_3",
@@ -537,7 +512,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "friday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "higashi_4",
@@ -553,7 +527,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "monday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "higashi_5",
@@ -569,7 +542,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "wednesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "higashi_6",
@@ -588,7 +560,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "thursday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "kita_1",
@@ -606,7 +577,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "wednesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "kita_2",
@@ -627,7 +597,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "tuesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "kita_3",
@@ -644,7 +613,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "friday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "kita_4",
@@ -661,7 +629,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "monday",
-      special_order: [:paper, :leaf, :paper, :not_burn],
     },
     {
       name: "kita_5",
@@ -683,7 +650,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "wednesday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "kita_6",
@@ -708,7 +674,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "thursday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "minami_1",
@@ -731,7 +696,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "friday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "minami_2",
@@ -752,7 +716,6 @@ module Gominohi
         :pet      => ["金"],
       },
       special_day: "tuesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "minami_3",
@@ -776,7 +739,6 @@ module Gominohi
         :pet      => ["火"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "minami_4",
@@ -800,7 +762,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "monday",
-      special_order: [:not_burn, :paper, :leaf, :paper],
     },
     {
       name: "minami_5",
@@ -820,7 +781,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "thursday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "minami_6",
@@ -836,7 +796,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "wednesday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "minami_7",
@@ -854,7 +813,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "thursday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "toyohira_1",
@@ -872,7 +830,6 @@ module Gominohi
         :pet      => ["木"],
       },
       special_day: "monday",
-      special_order: [:paper, :not_burn, :paper, :leaf],
     },
     {
       name: "toyohira_2",
@@ -893,7 +850,6 @@ module Gominohi
         :pet      => ["月"],
       },
       special_day: "wednesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "toyohira_3",
@@ -911,7 +867,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "thursday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
     {
       name: "toyohira_4",
@@ -930,7 +885,6 @@ module Gominohi
         :pet      => ["水"],
       },
       special_day: "tuesday",
-      special_order: [:leaf, :paper, :not_burn, :paper],
     },
   ]
 end
