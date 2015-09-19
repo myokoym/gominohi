@@ -44,7 +44,7 @@ module Gominohi
 
         special_dates.reject! do |date|
           # TODO: 年末年始は要確認
-          /\A(1231|010[1-5])\z/ =~ date.strftime("%m%d")
+          /\A(1230|010[1-5])\z/ =~ date.strftime("%m%d")
         end
 
         special_dates.each_slice(special_order.size) do |dates|
