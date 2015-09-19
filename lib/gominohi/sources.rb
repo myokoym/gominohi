@@ -68,7 +68,7 @@ module Gominohi
       special_day: "friday",
       special_order: [:leaf, :paper, :not_burn, :paper],
     },
-    {p
+    {
       name: "chuo_4",
       areas: [
         "中央区 北1条西10丁目～19丁目（北1条通の北側のみ）,札幌センター1",
