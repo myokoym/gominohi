@@ -14,8 +14,9 @@ if [ ! -e $1 ]; then
   mkdir $1
 fi
 
+echo "地名,センター,燃やせるごみ,枝・葉・草,燃やせないごみ,容器プラ,雑がみ,びん・缶・ペット" >  $1/area_days.csv
 echo "中央区"
-gominohi g chuo_1 $2 $3 2 >  $1/area_days.csv
+gominohi g chuo_1 $2 $3 2 >> $1/area_days.csv
 gominohi g chuo_2 $2 $3 2 >> $1/area_days.csv
 gominohi g chuo_3 $2 $3 3 >> $1/area_days.csv
 gominohi g chuo_4 $2 $3 2 >> $1/area_days.csv
