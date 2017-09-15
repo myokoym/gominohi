@@ -23,10 +23,10 @@ gominohi g chuo_4 $2 $3 3 >> $1/area_days.csv
 gominohi g chuo_5 $2 $3 3 >> $1/area_days.csv
 gominohi g chuo_6 $2 $3 3 >> $1/area_days.csv
 echo "厚別区"
-gominohi g atsubetsu_1 $2 $3 4 >> $1/area_days.csv
-gominohi g atsubetsu_2 $2 $3 3 >> $1/area_days.csv
-gominohi g atsubetsu_3 $2 $3 3 >> $1/area_days.csv
-gominohi g atsubetsu_4 $2 $3 3 >> $1/area_days.csv
+gominohi g atsubetsu_1 $2 $3 1 >> $1/area_days.csv
+gominohi g atsubetsu_2 $2 $3 4 >> $1/area_days.csv
+gominohi g atsubetsu_3 $2 $3 4 >> $1/area_days.csv
+gominohi g atsubetsu_4 $2 $3 4 >> $1/area_days.csv
 echo "白石区"
 gominohi g shiroishi_1 $2 $3 3 >> $1/area_days.csv
 gominohi g shiroishi_2 $2 $3 3 >> $1/area_days.csv
