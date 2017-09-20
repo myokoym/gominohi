@@ -34,8 +34,8 @@ gominohi g shiroishi_3 $2 $3 4 >> $1/area_days.csv
 gominohi g shiroishi_4 $2 $3 4 >> $1/area_days.csv
 echo "手稲区"
 gominohi g teine_1 $2 $3 2 >> $1/area_days.csv
-gominohi g teine_2 $2 $3 1 >> $1/area_days.csv
-gominohi g teine_3 $2 $3 1 >> $1/area_days.csv
+gominohi g teine_2 $2 $3 2 >> $1/area_days.csv
+gominohi g teine_3 $2 $3 2 >> $1/area_days.csv
 echo "清田区"
 gominohi g kiyota_1 $2 $3 2 >> $1/area_days.csv
 gominohi g kiyota_2 $2 $3 3 >> $1/area_days.csv
