@@ -52,11 +52,11 @@ gominohi g higashi_4 $2 $3 1 >> $1/area_days.csv
 gominohi g higashi_5 $2 $3 1 >> $1/area_days.csv
 gominohi g higashi_6 $2 $3 1 >> $1/area_days.csv
 echo "北区"
-gominohi g kita_1 $2 $3 4 >> $1/area_days.csv
-gominohi g kita_2 $2 $3 4 >> $1/area_days.csv
-gominohi g kita_3 $2 $3 1 >> $1/area_days.csv
-gominohi g kita_4 $2 $3 4 >> $1/area_days.csv
-gominohi g kita_5 $2 $3 4 >> $1/area_days.csv
+gominohi g kita_1 $2 $3 1 >> $1/area_days.csv
+gominohi g kita_2 $2 $3 1 >> $1/area_days.csv
+gominohi g kita_3 $2 $3 2 >> $1/area_days.csv
+gominohi g kita_4 $2 $3 1 >> $1/area_days.csv
+gominohi g kita_5 $2 $3 1 >> $1/area_days.csv
 gominohi g kita_6 $2 $3 1 >> $1/area_days.csv
 echo "南区"
 gominohi g minami_1 $2 $3 2 >> $1/area_days.csv
