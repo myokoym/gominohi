@@ -40,10 +40,10 @@ echo "清田区"
 gominohi g kiyota_1 $2 $3 3 >> $1/area_days.csv
 gominohi g kiyota_2 $2 $3 4 >> $1/area_days.csv
 echo "西区"
-gominohi g nishi_1 $2 $3 2 >> $1/area_days.csv
-gominohi g nishi_2 $2 $3 1 >> $1/area_days.csv
-gominohi g nishi_3 $2 $3 1 >> $1/area_days.csv
-gominohi g nishi_4 $2 $3 1 >> $1/area_days.csv
+gominohi g nishi_1 $2 $3 3 >> $1/area_days.csv
+gominohi g nishi_2 $2 $3 2 >> $1/area_days.csv
+gominohi g nishi_3 $2 $3 2 >> $1/area_days.csv
+gominohi g nishi_4 $2 $3 2 >> $1/area_days.csv
 echo "東区"
 gominohi g higashi_1 $2 $3 4 >> $1/area_days.csv
 gominohi g higashi_2 $2 $3 4 >> $1/area_days.csv
