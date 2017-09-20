@@ -67,8 +67,7 @@ gominohi g minami_5 $2 $3 2 >> $1/area_days.csv
 gominohi g minami_6 $2 $3 2 >> $1/area_days.csv
 gominohi g minami_7 $2 $3 2 >> $1/area_days.csv
 echo "豊平区"
-gominohi g toyohira_1 $2 $3 2 >> $1/area_days.csv
-gominohi g toyohira_2 $2 $3 2 >> $1/area_days.csv
-gominohi g toyohira_3 $2 $3 2 >> $1/area_days.csv
+gominohi g toyohira_1 $2 $3 3 >> $1/area_days.csv
+gominohi g toyohira_2 $2 $3 3 >> $1/area_days.csv
 gominohi g toyohira_3 $2 $3 3 >> $1/area_days.csv
-gominohi g toyohira_4 $2 $3 2 >> $1/area_days.csv
+gominohi g toyohira_4 $2 $3 3 >> $1/area_days.csv
