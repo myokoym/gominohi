@@ -63,10 +63,6 @@ gominohi g kita_3 $2 $3 2 >> $1/area_days.csv
 gominohi g kita_4 $2 $3 2 >> $1/area_days.csv
 gominohi g kita_5 $2 $3 2 >> $1/area_days.csv
 gominohi g kita_6 $2 $3 2 >> $1/area_days.csv
-# 1 [:paper, :not_burn, :paper, :leaf]
-# 2 [:leaf, :paper, :not_burn, :paper]
-# 3 [:paper, :leaf, :paper, :not_burn]
-# 4 [:not_burn, :paper, :leaf, :paper]
 echo "南区"
 gominohi g minami_1 $2 $3 3 >> $1/area_days.csv
 gominohi g minami_2 $2 $3 3 >> $1/area_days.csv
